@@ -11,7 +11,7 @@
 - **[RepoAudit++](https://github.com/ZJU-Automated-Reasoning-Group/RepoAudit)** - LLM-driven repol-level code auditor
     <hr style="margin: 4px 0;">
 - **[arlib](https://github.com/ZJU-Automated-Reasoning-Group/arlib)**  - Library for automated reasoning
-- **[pyomt](https://github.com/ZJU-Automated-Reasoning-Group/pyomt)** - Library for Optimization Modulo Tehoeires
+- **[pyomt](https://github.com/ZJU-Automated-Reasoning-Group/pyomt)** - Library for Optimization Modulo Theories
 
 
 -----------------------------
