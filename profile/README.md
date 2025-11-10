@@ -1,7 +1,7 @@
 ## 🔬 Research Areas
 
 - **Program Analysis & Verification**
-- **Program Synthessis & Optimizations**
+- **Program Synthesis & Optimizations**
 - **Logic & Automated Reasoning**
   
 ## 🛠️ Open-Source Projects
@@ -12,7 +12,6 @@
     <hr style="margin: 4px 0;">
 - **[arlib](https://github.com/ZJU-Automated-Reasoning-Group/arlib)**  - Library for automated reasoning
 - **[pyomt](https://github.com/ZJU-Automated-Reasoning-Group/pyomt)** - Library for Optimization Modulo Tehoeires
-- **[minismt](https://github.com/ZJU-Automated-Reasoning-Group/minismt)** - Rust-based SMT solver
 
 
 -----------------------------
@@ -31,7 +30,7 @@
       <hr style="margin: 4px 0;">
 - **[arlib](https://github.com/ZJU-Automated-Reasoning-Group/arlib)**  - 自动推理库
 - **[pyomt](https://github.com/ZJU-Automated-Reasoning-Group/pyomt)** - OMT求解器
-- **[minismt](https://github.com/ZJU-Automated-Reasoning-Group/minismt)** - 基于Rust的SMT求解器
+
 
 
 
