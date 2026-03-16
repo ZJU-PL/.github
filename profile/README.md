@@ -6,7 +6,7 @@
   
 ## 🛠️ Open-Source Projects
 
-- **[lotus](https://github.com/ZJU-PL/lotus)**  - Pogram analysis, verification, and optimization framework over LLVM IR
+- **[lotus](https://github.com/ZJU-PL/lotus)**  - Program analysis, verification, and optimization framework over LLVM IR
 - **[pyflow](https://github.com/ZJU-PL/pyflow)** - Static analysis framework for Python
 - **[RepoAudit++](https://github.com/ZJU-PL/RepoAudit)** - LLM-driven repol-level code auditor
     <hr style="margin: 4px 0;">
