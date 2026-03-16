@@ -7,7 +7,6 @@
 ## 🛠️ Open-Source Projects
 
 - **[lotus](https://github.com/ZJU-PL/lotus)**  - Pogram analysis and verification framework
-- **[efmc](https://github.com/ZJU-PL/efmc)**    -  SMT-based software model checker
 - **[RepoAudit++](https://github.com/ZJU-PL/RepoAudit)** - LLM-driven repol-level code auditor
     <hr style="margin: 4px 0;">
 - **[Aria](https://github.com/ZJU-PL/aria)**  - Library for constraint solving, theorem proving, and symbolic computation.
@@ -24,7 +23,6 @@
 ## 🛠️ 开源项目
 
 - **[lotus](https://github.com/ZJU-PL/lotus)**  - 程序分析与验证框架
-- **[efmc](https://github.com/ZJU-PL/efmc)**    - 软件模型检查器
 - **[RepoAudit++](https://github.com/ZJU-PL/RepoAudit)** - LLM驱动的仓库级代码审计 
       <hr style="margin: 4px 0;">
 - **[Aria](https://github.com/ZJU-PL/aria)**  - 自动推理库
